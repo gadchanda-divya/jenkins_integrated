@@ -1,2 +1,1 @@
 Jenkins Git Integration Test
-This file is created for Jenkins pipeline.
